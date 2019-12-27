@@ -13,5 +13,5 @@ My name is James Chapman. I have the following qualities:
 
 ### My History
 
-# Placeholder
+Placeholder
 
